@@ -1,8 +1,11 @@
 admin
 123456admin
+msfadmin
 123456
 12345
+ftp
 123456789
+anonymous
 password
 iloveyou
 princess
