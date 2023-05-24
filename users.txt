@@ -2,10 +2,13 @@
 4Dgifts
 abrt
 adm
+msfadmin
 admin
 administrator
 anon
+anonymous
 _apt
+ftp
 arpwatch
 auditor
 avahi
