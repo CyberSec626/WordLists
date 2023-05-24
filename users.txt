@@ -9,6 +9,7 @@ _apt
 arpwatch
 auditor
 avahi
+ftp
 avahi-autoipd
 backup
 bbs
@@ -16,6 +17,7 @@ beef-xss
 bin
 bitnami
 checkfs
+msfadmin
 checkfsys
 checksys
 chronos
@@ -27,6 +29,7 @@ couchdb
 cups-pk-helper
 daemon
 dbadmin
+anonymous
 dbus
 Debian-exim
 Debian-snmp
