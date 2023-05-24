@@ -9,16 +9,19 @@ princess
 1234567
 12345678
 abc123
+msfadmin
 nicole
 daniel
 babygirl
 monkey
 lovely
+ftp
 jessica
 654321
 michael
 ashley
 qwerty
+anonymous
 111111
 iloveu
 000000
@@ -1084,7 +1087,6 @@ eminem
 matthew
 robert
 danielle
-msfadmin
 forever
 family
 jonathan
